@@ -1,6 +1,8 @@
 # Maltese-et-al.-2021
 
-Matlab custom-code used for quantification of imaging and behavioral analysis carried out in Maltese et al., 2021
+Matlab custom-code used for quantification of imaging and behavioral analysis carried out in Maltese et al., 2021.
+For managing 2P imaging datasets, please refer to https://github.com/TritschLab/TLab-2P-analysis
+For concatenation and motion correction, please refer to https://github.com/HarveyLab/Acquisition2P_class.git
 Suggested Matlab version R2016a
 
 Data from Maltese et al 2021 will be added soon. 
